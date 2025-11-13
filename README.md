@@ -1,10 +1,10 @@
 # 📜 README: NetDevOps GNS3 Automation Project
 
 # DEMO
-![demo gif](ss/demo.gif "Demo GIF")
+![demo gif](demo.gif "Demo GIF")
 
 # Topology
-![topology](ss/0.gif "Topology")
+![topology](0.gif "Topology")
 
 ## 🎯 Project Goal
 
