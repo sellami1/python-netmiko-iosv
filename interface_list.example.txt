@@ -1,0 +1,2 @@
+FastEthernet0/0            192.168.33.2    YES NVRAM  up                    up      
+Loopback111                10.111.111.111  YES manual up                    up      

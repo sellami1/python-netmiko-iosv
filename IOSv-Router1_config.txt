@@ -1,0 +1,13 @@
+enable
+configure terminal
+hostname <hostname>
+ip domain-name <domain.name>
+interface <available-interface-name>
+ip address <ip-address> <mask>
+no shutdown
+exit
+username <username> secret <secret>
+crypto key generate rsa
+line vty 0 4
+login local
+transport input ssh
