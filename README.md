@@ -4,7 +4,7 @@
 ![demo gif](demo.gif "Demo GIF")
 
 # Topology
-![topology](0.gif "Topology")
+![topology](0.jpg "Topology")
 
 ## 🎯 Project Goal
 
